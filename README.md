@@ -1,5 +1,5 @@
 # VAQSO_API
 Unity Project
 
-Company URL[https://vaqso.com/] (https://vaqso.com/)
+Company URL [https://vaqso.com/](https://vaqso.com/)
 
