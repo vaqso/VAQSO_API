@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VAQSO/VAQSOManager/VAQSO Demo Scene.unity
+  isLoaded: 1
+  isActive: 1

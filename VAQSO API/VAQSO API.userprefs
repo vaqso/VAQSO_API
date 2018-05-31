@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VAQSO/VAQSOManager/VAQSOManager.cs">
+    <Files>
+      <File FileName="Assets/VAQSO/VAQSOManager/VAQSO_DEMO.cs" Line="1" Column="1" />
+      <File FileName="Assets/VAQSO/VAQSOManager/VAQSOManager.cs" Line="116" Column="11" />
+      <File FileName="Assets/VAQSO/Scent.cs" Line="161" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
